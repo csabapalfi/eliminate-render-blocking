@@ -69,7 +69,7 @@ Some additional tips:
 * Be sure not to inline too much CSS as that'll also slow down your initial render.
 * Read some more explanation/tips from [Google](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery) and [Varvy](https://varvy.com/pagespeed/optimize-css-delivery.html).
 
-### Load non-critical asynchronously
+### Load non-critical CSS asynchronously
 
 Inlining your critical CSS is not enough as the browser will still block rendering as soon as it encounters your non-critical CSS referenced using a `link` tag.
 
