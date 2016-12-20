@@ -6,11 +6,6 @@ Other optimizations assume you have more knowledge of browser internals but can 
 
 This post is about eliminating render blocking resources and prioritizing above-the-fold content. These practices enable [optimized (progressive) rendering](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) of your web pages.
 
-This is already a detailed article with lots of linked resources. I'm also planning to add the following:
-* 🔜TODO: more example code
-* 🔜TODO: video of a page load with/without render blocking using [webpagetest video](https://www.webpagetest.org/video/)
-* 🔜TODO: cover react and CSS-in-JS solutions
-
 ## Do you have the problem?
 
 ### PageSpeed Insights
