@@ -1,5 +1,7 @@
 # How to eliminate render-blocking JavaScript and CSS
 
+[Csaba Palfi](https://csabapalfi.github.io), Dec 2016
+
 Most web performance recommendations are simple to put into practice. Minifying assets or optimizing images is a matter of configuring some basic tooling.
 
 Other optimizations assume you have more knowledge of browser internals but can really pay off in terms of user experience. (Especially for mobile users on a slow connection.)
