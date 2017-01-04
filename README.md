@@ -1,4 +1,4 @@
-# How to eliminate render-blocking JavaScript and CSS
+# ⚡ How to eliminate render-blocking JavaScript and CSS
 
 [Csaba Palfi](https://csabapalfi.github.io), Dec 2016
 
